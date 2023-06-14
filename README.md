@@ -1,5 +1,5 @@
 ### Hi there 👋
-Presently, my focus is on acquiring skills in web development. However, in the future, I will be exploring the realm of AI applications. Problem-solving is one of my core interests, and I take pleasure in finding solutions to complex challenges. Additionally, I possess expertise in UI/UX design.<br>
+I am a Computer Science Engineering student from India with a passion for technology and innovation. As a learner, I am currently expanding my skill set in web development, but my ultimate goal is to specialize in AI applications. I truly enjoy solving complex problems by identifying innovative solutions that can make a positive impact on people's lives. Furthermore, I possess expertise in UI/UX design, which allows me to create seamless and intuitive user experiences.<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Arunya_goojar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Arunyagoojar) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/arunyagoojar) 
