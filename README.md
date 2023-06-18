@@ -12,5 +12,4 @@ I am a Computer Science Engineering student from India with a passion for techno
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arunyagoojar&theme=dark&hide_border=false)
 
 ---
-![](https://visitcount.itsvg.in/api?id=arunyagoojar&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://visitcount.itsvg.in/api?id=arunyagoojar&label=Profile%20Views&color=12&pretty=true)]
